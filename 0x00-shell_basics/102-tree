@@ -1,2 +1,2 @@
 #!/bin/bash
-mkfile ./welcome/to school
+echo ''> welcome/to/school
